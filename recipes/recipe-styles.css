@@ -1,0 +1,41 @@
+.profile {
+    background-color:darksalmon;
+}
+
+.recipe-title {
+    font-family: fantasy;
+    font-size: 55px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+.description {
+    font-size: 25px;
+    font-family: 'Old English Text MT', fantasy;
+}
+
+.text-body {
+    font-family: 'Comic Sans MS', cursive;
+    font-size: 18px;
+}
+
+.text-body-title{
+    font-size: 25px;
+}
+
+.ingredients {
+    background-color: blanchedalmond;
+}
+
+.steps {
+    background-color: beige;
+}
+
+.notes {
+    background-color: lightcyan;
+}
+
+
